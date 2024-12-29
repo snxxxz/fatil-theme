@@ -1,0 +1,22 @@
+{
+  "name": "fatality-theme",
+  "displayName": "Fatality Theme",
+  "description": "A striking dark theme with #eb055a text and #2a2257 background.",
+  "version": "1.0.0",
+  "publisher": "snxxz",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fatality Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fatality-color-theme.json"
+      }
+    ]
+  }
+}

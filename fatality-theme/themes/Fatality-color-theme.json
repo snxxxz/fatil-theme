@@ -1,0 +1,99 @@
+{
+  "name": "Fatality Theme",
+  "type": "dark",
+  "colors": {
+    // Editor Background and Text
+    "editor.background": "#2a2257",
+    "editor.foreground": "#eb055a",
+    "editorCursor.foreground": "#eb055a",
+    "editor.lineHighlightBackground": "#372d66",
+    "editor.selectionBackground": "#503a85",
+    "editor.inactiveSelectionBackground": "#4a3178",
+
+    // Activity Bar
+    "activityBar.background": "#2a2257",
+    "activityBar.foreground": "#eb055a",
+    "activityBar.border": "#372d66",
+    "activityBarBadge.background": "#eb055a",
+    "activityBarBadge.foreground": "#ffffff",
+
+    // Sidebar
+    "sideBar.background": "#241d4b",
+    "sideBar.foreground": "#eb055a",
+    "sideBar.border": "#372d66",
+    "sideBarTitle.foreground": "#eb055a",
+    "sideBarSectionHeader.foreground": "#eb055a",
+
+    // Status Bar
+    "statusBar.background": "#2a2257",
+    "statusBar.foreground": "#eb055a",
+    "statusBar.debuggingBackground": "#2a2257",
+    "statusBar.debuggingForeground": "#eb055a",
+
+    // Title Bar
+    "titleBar.activeBackground": "#2a2257",
+    "titleBar.activeForeground": "#eb055a",
+    "titleBar.inactiveBackground": "#241d4b",
+    "titleBar.inactiveForeground": "#eb055a",
+
+    // Tabs
+    "tab.activeBackground": "#372d66",
+    "tab.inactiveBackground": "#2a2257",
+    "tab.activeForeground": "#eb055a",
+    "tab.inactiveForeground": "#eb055a",
+    "tab.border": "#372d66",
+
+    // Terminal
+    "terminal.background": "#2a2257",
+    "terminal.foreground": "#eb055a",
+    "terminalCursor.foreground": "#eb055a",
+
+    // Icons and Badges
+    "icon.foreground": "#eb055a",
+    "settings.iconForeground": "#eb055a",
+    "settings.modifiedItemIndicator": "#eb055a",
+    "list.activeSelectionForeground": "#eb055a",
+    "list.inactiveSelectionForeground": "#eb055a",
+    "list.hoverForeground": "#eb055a",
+    "list.focusForeground": "#eb055a",
+
+    // Notifications and Dropdowns
+    "notification.foreground": "#eb055a",
+    "dropdown.foreground": "#eb055a",
+    "button.foreground": "#eb055a",
+    "button.background": "#372d66",
+    "button.hoverBackground": "#503a85",
+
+    // Breadcrumbs
+    "breadcrumb.foreground": "#eb055a",
+    "breadcrumb.focusForeground": "#eb055a",
+    "breadcrumb.activeSelectionForeground": "#eb055a",
+
+    // Input Fields
+    "input.background": "#2a2257",
+    "input.foreground": "#eb055a",
+    "input.border": "#372d66",
+    "input.placeholderForeground": "#eb055a",
+
+    // Editor Ruler and Guides
+    "editorRuler.foreground": "#eb055a",
+    "editorLineNumber.foreground": "#eb055a",
+    "editorIndentGuide.background": "#372d66",
+    "editorIndentGuide.activeBackground": "#eb055a",
+
+    // General UI Elements
+    "pickerGroup.foreground": "#eb055a",
+    "menu.foreground": "#eb055a",
+    "menu.selectionForeground": "#eb055a",
+    "menu.border": "#372d66",
+    "menu.selectionBackground": "#503a85"
+  },
+  "tokenColors": [
+    {
+      "scope": ["*"],
+      "settings": {
+        "foreground": "#eb055a"
+      }
+    }
+  ]
+}
