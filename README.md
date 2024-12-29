@@ -17,4 +17,5 @@ Enjoy the coding experience!
 ### Editor
 ![Editor Preview](https://via.placeholder.com/800x400/2a2257/eb055a?text=Editor+Preview)
 
-https://files.catbox.moe/i6my4k.png
+
+![56362999806 (1)](https://github.com/user-attachments/assets/e78cd52f-d51d-417c-a1f5-5a7f66c0d297)
