@@ -17,4 +17,4 @@ Enjoy the coding experience!
 ### Editor
 ![Editor Preview](https://via.placeholder.com/800x400/2a2257/eb055a?text=Editor+Preview)
 
-https://cdn.discordapp.com/attachments/1246485236372475914/1322902963102158919/56362999806_1.png?ex=677290e4&is=67713f64&hm=1d3f061874b61b6de2ac4e959a21928019aa0f0831951113e4ad67d099e677c3&
+https://files.catbox.moe/i6my4k.png
